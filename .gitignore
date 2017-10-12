@@ -18,5 +18,25 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# for eclipse
+/.settings/
+/.project
+
+# for idea
+*.iml
+/.idea
+*/target
+out/
+build/
+log/
+*.prefs
+*.log
+*.factorypath
+*.core.xml
+*.gitignore
+*.cfg
+*.classpath
+*.springBeans
+test-output/
+
 hs_err_pid*
